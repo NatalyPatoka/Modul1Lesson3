@@ -17,4 +17,5 @@ void main()
 	printf("значение y = %d\n", y);
 		
 
+
 }
